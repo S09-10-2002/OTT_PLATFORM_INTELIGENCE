@@ -172,16 +172,18 @@ OTT_PLATFORM_INTELLIGENCE/
 └── README.md
 ```
 
-## Dashboard Preview
 
-### Executive Overview
-![Executive Overview](Screenshots/01_Executive_Overview.png)
+## 📊 Power BI Dashboard Preview
 
-### Content Performance
-![Content performance](Screenshots/02_Content_Performance.png)
+### 1. Executive Overview
+![Executive Overview](Screenshots/Executive%20Overview.png)
 
-### Customer Retention & Engagement
-![Customer retention](Screenshots/03_Customer_Retention.png)
+### 2. Content Performance
+![Content Performance](Screenshots/Content%20performance.png)
+
+### 3. Customer Retention
+![Customer Retention](Screenshots/Customer%20retention.png)
+
 
 ## Project Limitations
 
