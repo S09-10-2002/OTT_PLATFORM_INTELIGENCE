@@ -1,0 +1,121 @@
+content_id,content_title,content_type,genre,language,release_year,runtime_minutes,content_rating,production_cost_lakh,marketing_cost_lakh,season_count,availability_status
+CONT001,Echoes of Dreams 1,Web Series,Comedy,Malayalam,2025,22,U/A 13+,1397,42,1,Available
+CONT002,Hidden Truth 2,Movie,Drama,Kannada,2024,159,U/A 16+,796,53,1,Available
+CONT003,Hidden Tomorrow 3,Movie,Thriller,Kannada,2019,117,U/A 13+,402,171,1,Available
+CONT004,Last Truth 4,Web Series,Crime,English,2026,57,U/A 13+,187,187,3,Available
+CONT005,Hidden Promise 5,Movie,Documentary,Kannada,2019,173,U/A 13+,1263,74,1,Available
+CONT006,A Promise 6,Movie,Romance,Kannada,2021,180,U/A 13+,331,164,1,Available
+CONT007,Echoes of Truth 7,Movie,Crime,Tamil,2021,110,U/A 13+,624,205,1,Available
+CONT008,Last Shadows 8,Web Series,Drama,English,2023,48,U,933,219,1,Available
+CONT009,City of Tomorrow 9,Movie,Action,Bengali,2023,143,U/A 16+,925,52,1,Available
+CONT010,Hidden Tomorrow 10,Movie,Thriller,Tamil,2026,91,U,841,233,1,Available
+CONT011,Last Legacy 11,Movie,Reality,Bengali,2026,100,U,1239,39,1,Available
+CONT012,Echoes of Secrets 12,Movie,Sci-Fi,Telugu,2016,114,,730,207,1,Available
+CONT013,City of Truth 13,Movie,Sci-Fi,Bengali,2024,147,U/A 13+,183,156,1,Available
+CONT014,Hidden Shadows 14,Movie,Crime,Tamil,2019,164,A,1128,22,1,Available
+CONT015,Last Secrets 15,Web Series,Drama,Telugu,2021,25,A,201,86,1,Expiring Soon
+CONT016,Beyond Promise 16,Web Series,Comedy,Telugu,2025,32,A,753,191,3,Available
+CONT017,Echoes of Dreams 17,Movie,Comedy,Tamil,2024,152,U/A 13+,1424,65,1,Available
+CONT018,Hidden Shadows 18,Movie,Thriller,Tamil,2020,93,U/A 16+,614,90,1,Expiring Soon
+CONT019,The Secrets 19,Movie,Animation,Bengali,2017,156,U/A 16+,498,106,1,Expiring Soon
+CONT020,City of Legacy 20,Movie,Crime,Bengali,2016,98,A,919,161,1,Available
+CONT021,Beyond Tomorrow 21,Web Series,Comedy,Kannada,2020,36,U/A 13+,410,98,2,Expiring Soon
+CONT022,Last Dreams 22,Web Series,Sci-Fi,English,2022,27,A,1370,6,2,Available
+CONT023,Echoes of Journey 23,Web Series,Sci-Fi,Telugu,2018,29,A,1389,169,4,Available
+CONT024,City of Shadows 24,Movie,Documentary,Telugu,2026,122,U/A 16+,296,117,1,Available
+CONT025,Echoes of Legacy 25,Web Series,Documentary,English,2018,48,A,341,222,3,Available
+CONT026,The Legacy 26,Web Series,Comedy,Kannada,2022,25,U,937,216,3,Available
+CONT027,A Legacy 27,Movie,Reality,Hindi,2018,103,U/A 16+,776,71,1,Available
+CONT028,Hidden Shadows 28,Movie,Crime,Hindi,2018,162,U/A 16+,280,221,1,Available
+CONT029,Hidden Truth 29,Movie,Reality,Tamil,2020,91,A,990,49,1,Available
+CONT030,Hidden Promise 30,Web Series,Romance,Bengali,2016,24,U/A 16+,815,241,1,Available
+CONT031,The Legacy 31,Web Series,Comedy,Bengali,2016,53,U/A 13+,1363,166,2,Available
+CONT032,Last Legacy 32,Movie,Sci-Fi,English,2018,93,U,388,59,1,Available
+CONT033,Last Promise 33,Movie,Crime,Tamil,2024,108,U,1236,191,1,Available
+CONT034,A Journey 34,Movie,Animation,English,2020,174,A,1128,138,1,Available
+CONT035,Echoes of Shadows 35,Web Series,Animation,Malayalam,2026,37,U/A 16+,299,213,2,Available
+CONT036,Echoes of Tomorrow 36,Movie,Thriller,Tamil,2018,177,U/A 16+,162,83,1,Available
+CONT037,A Shadows 37,Movie,Documentary,Hindi,2026,122,U/A 13+,1431,59,1,Available
+CONT038,Last Legacy 38,Web Series,Animation,Malayalam,2019,29,A,975,19,4,Available
+CONT039,Last Journey 39,Movie,Thriller,Malayalam,2018,153,U,74,234,1,Available
+CONT040,A Journey 40,Movie,Crime,English,2023,150,A,909,165,1,Expiring Soon
+CONT041,Last Shadows 41,Movie,Sci-Fi,Tamil,2017,130,U/A 13+,1153,169,1,Available
+CONT042,A Dreams 42,Movie,Romance,Malayalam,2017,180,U/A 16+,1381,86,1,Available
+CONT043,Hidden Tomorrow 43,Movie,Drama,English,2018,160,U/A 13+,1037,52,1,Available
+CONT044,The Secrets 44,Movie,Comedy,Tamil,2023,109,A,1110,236,1,Expiring Soon
+CONT045,Echoes of Secrets 45,Movie,Sci-Fi,Bengali,2017,107,A,1050,15,1,Expiring Soon
+CONT046,City of Secrets 46,Web Series,Romance,English,2025,41,U,861,18,1,Available
+CONT047,The Promise 47,Movie,Reality,Hindi,2022,159,U/A 16+,292,119,1,Expiring Soon
+CONT048,A Legacy 48,Movie,Crime,Malayalam,2020,180,U/A 16+,973,13,1,Available
+CONT049,A Legacy 49,Web Series,Action,Telugu,2019,50,U,308,87,1,Available
+CONT050,Beyond Legacy 50,Movie,Action,Tamil,2017,113,U/A 13+,618,50,1,Available
+CONT051,The Legacy 51,Movie,Romance,Tamil,2016,89,U/A 16+,1182,229,1,Available
+CONT052,Echoes of Tomorrow 52,Movie,Drama,Telugu,2026,159,A,1417,39,1,Available
+CONT053,Last Tomorrow 53,Web Series,Thriller,Telugu,2023,25,U/A 13+,378,28,1,Available
+CONT054,City of Secrets 54,Movie,Comedy,Telugu,2019,103,U,1480,166,1,Expiring Soon
+CONT055,Hidden Truth 55,Web Series,Drama,Telugu,2021,48,U,1029,88,1,Available
+CONT056,Beyond Dreams 56,Web Series,Animation,Telugu,2016,50,A,94,129,4,Expiring Soon
+CONT057,City of Journey 57,Movie,Romance,Hindi,2025,174,A,293,11,1,Available
+CONT058,Echoes of Dreams 58,Movie,Documentary,English,2017,90,A,1301,40,1,Available
+CONT059,Beyond Shadows 59,Movie,Comedy,Telugu,2022,98,U,79,65,1,Available
+CONT060,A Dreams 60,Web Series,Reality,Bengali,2024,43,A,606,67,3,Available
+CONT061,A Secrets 61,Movie,Reality,Kannada,2026,139,U/A 16+,824,191,1,Available
+CONT062,Echoes of Dreams 62,Web Series,Action,Tamil,2023,53,U/A 13+,806,232,5,Available
+CONT063,A Tomorrow 63,Movie,Crime,Malayalam,2018,125,U,199,245,1,Available
+CONT064,A Dreams 64,Movie,Documentary,Tamil,2026,94,U/A 13+,1194,243,1,Available
+CONT065,City of Dreams 65,Movie,Comedy,English,2018,141,U/A 16+,558,154,1,Available
+CONT066,The Promise 66,Movie,Thriller,Bengali,2025,86,U/A 13+,440,137,1,Available
+CONT067,Beyond Dreams 67,Web Series,Thriller,Kannada,2018,53,A,242,198,5,Expiring Soon
+CONT068,A Promise 68,Web Series,Animation,Kannada,2023,40,A,545,123,1,Available
+CONT069,The Secrets 69,Movie,Documentary,English,2020,127,A,185,131,1,Available
+CONT070,Hidden Truth 70,Movie,Sci-Fi,Telugu,2018,100,U/A 16+,455,64,1,Available
+CONT071,Last Truth 71,Movie,Animation,Hindi,2026,119,U/A 16+,861,179,1,Available
+CONT072,The Tomorrow 72,Movie,Romance,Telugu,2025,173,A,852,77,1,Available
+CONT073,Last Truth 73,Web Series,Drama,Tamil,2019,35,U/A 16+,729,34,5,Available
+CONT074,A Truth 74,Movie,Comedy,Bengali,2021,124,A,1025,14,1,Expiring Soon
+CONT075,The Legacy 75,Web Series,Animation,Bengali,2019,25,U,439,143,1,Expiring Soon
+CONT076,A Dreams 76,Movie,Animation,Malayalam,2019,89,U/A 13+,144,8,1,Available
+CONT077,The Shadows 77,Movie,Animation,Telugu,2021,130,U/A 13+,315,244,1,Available
+CONT078,Beyond Shadows 78,Web Series,Sci-Fi,Hindi,2026,51,U/A 16+,1441,81,3,Available
+CONT079,Last Secrets 79,Web Series,Crime,Malayalam,2023,48,U/A 13+,850,205,1,Available
+CONT080,The Promise 80,Movie,Action,Malayalam,2026,131,A,193,160,1,Expiring Soon
+CONT081,The Promise 81,Movie,Crime,Bengali,2017,148,U/A 13+,177,44,1,Available
+CONT082,The Dreams 82,Web Series,Documentary,Tamil,2017,29,A,654,14,1,Expiring Soon
+CONT083,Beyond Secrets 83,Movie,Documentary,Malayalam,2023,129,U,1103,146,1,Available
+CONT084,Hidden Tomorrow 84,Movie,Comedy,Tamil,2026,107,U,580,190,1,Expiring Soon
+CONT085,Hidden Shadows 85,Movie,Romance,Tamil,2016,167,U/A 13+,238,235,1,Available
+CONT086,A Legacy 86,Movie,Comedy,Bengali,2026,127,U/A 13+,163,181,1,Available
+CONT087,The Shadows 87,Movie,Romance,Malayalam,2016,173,A,728,151,1,Available
+CONT088,Echoes of Legacy 88,Movie,Animation,Malayalam,2026,96,U,814,138,1,Available
+CONT089,Beyond Journey 89,Movie,Crime,Telugu,2016,126,U/A 16+,320,185,1,Available
+CONT090,The Legacy 90,Movie,Crime,Hindi,2019,94,,517,8,1,Available
+CONT091,Last Shadows 91,Movie,Drama,Tamil,2024,161,U/A 16+,843,153,1,Available
+CONT092,Beyond Tomorrow 92,Web Series,Action,Tamil,2025,58,A,1335,129,3,Available
+CONT093,Hidden Promise 93,Web Series,Action,English,2023,30,U/A 13+,78,24,2,Available
+CONT094,Beyond Promise 94,Movie,Romance,Kannada,2021,102,U,861,221,1,Available
+CONT095,Hidden Shadows 95,Movie,Documentary,Kannada,2019,171,U/A 13+,1122,206,1,Expiring Soon
+CONT096,The Dreams 96,Movie,Thriller,English,2021,103,U/A 13+,698,169,1,Available
+CONT097,Last Truth 97,Web Series,Sci-Fi,Hindi,2024,27,A,520,101,5,Available
+CONT098,Echoes of Tomorrow 98,Movie,Action,Telugu,2016,88,U/A 16+,520,54,1,Expiring Soon
+CONT099,Hidden Secrets 99,Movie,Action,Bengali,2026,132,U/A 13+,741,143,1,Available
+CONT100,Echoes of Promise 100,Web Series,Sci-Fi,Kannada,2017,48,U/A 13+,545,72,3,Available
+CONT101,Beyond Dreams 101,Movie,Animation,Telugu,2019,97,A,896,175,1,Available
+CONT102,The Promise 102,Web Series,Reality,Bengali,2020,37,A,43,223,3,Available
+CONT103,The Shadows 103,Web Series,Action,Kannada,2020,23,U/A 13+,780,182,3,Available
+CONT104,Echoes of Secrets 104,Movie,Drama,Malayalam,2021,148,A,473,238,1,Available
+CONT105,Echoes of Journey 105,Movie,Crime,Hindi,2026,98,U,1011,141,1,Available
+CONT106,Last Truth 106,Movie,Comedy,Kannada,2022,138,U/A 13+,1410,236,1,Available
+CONT107,A Truth 107,Movie,Sci-Fi,Bengali,2017,98,U/A 13+,619,176,1,Expiring Soon
+CONT108,The Shadows 108,Web Series,Comedy,English,2024,47,A,1300,232,5,Available
+CONT109,The Dreams 109,Movie,Drama,Telugu,2021,92,U,986,213,1,Expiring Soon
+CONT110,Hidden Secrets 110,Web Series,Crime,Tamil,2021,24,U/A 13+,1364,17,5,Expiring Soon
+CONT111,Hidden Promise 111,Web Series,Comedy,Tamil,2018,38,U/A 13+,1318,128,4,Available
+CONT112,Echoes of Shadows 112,Web Series,Documentary,Hindi,2021,25,U/A 16+,786,136,1,Available
+CONT113,A Journey 113,Movie,Thriller,Hindi,2022,144,U/A 16+,133,197,1,Expiring Soon
+CONT114,City of Promise 114,Movie,Thriller,Kannada,2025,91,A,768,88,1,Expiring Soon
+CONT115,Beyond Promise 115,Web Series,Animation,Hindi,2017,26,U,555,134,4,Available
+CONT116,Last Truth 116,Web Series,Romance,English,2020,25,U/A 13+,1239,183,3,Expiring Soon
+CONT117,Echoes of Journey 117,Movie,Comedy,Kannada,2018,171,U/A 16+,1131,23,1,Available
+CONT118,Beyond Journey 118,Movie,Romance,Hindi,2019,180,U,683,6,1,Available
+CONT119,A Legacy 119,Movie,Reality,Malayalam,2018,115,A,108,14,1,Available
+CONT120,Echoes of Shadows 120,Movie,Comedy,Kannada,2019,94,A,70,171,1,Available

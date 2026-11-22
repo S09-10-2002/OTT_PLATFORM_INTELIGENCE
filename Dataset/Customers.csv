@@ -1,0 +1,501 @@
+customer_id,signup_date,subscription_plan,monthly_fee_inr,acquisition_channel,region,city,preferred_device,customer_age,tenure_months,churn_status,cancellation_date,last_active_date,auto_renewal
+CUST0001,2024-03-22,Super,299,Organic,West,Mumbai,Mobile,59,31,Active,,2026-10-18,Yes
+CUST0002,2025-12-06,Premium,499,Referral,North,Lucknow,Smart TV,52,10,Active,,2026-10-22,Yes
+CUST0003,2025-08-19,Super,299,Organic,West,Pune,Smart TV,37,14,Active,,2026-10-24,Yes
+CUST0004,2025-02-04,Mobile,149,Social Media,North,Delhi,Mobile,23,21,Active,,2026-10-26,Yes
+CUST0005,2025-01-29,Mobile,149,Paid Search,North,Chandigarh,Mobile,50,21,Active,,2026-10-30,No
+CUST0006,2026-02-22,Super,299,Organic,North,Delhi,Mobile,22,8,Active,,2026-10-23,No
+CUST0007,2024-03-19,Premium,499,Referral,East,Kolkata,Smart TV,34,31,Churned,2026-09-18,2026-09-14,No
+CUST0008,2025-09-27,Mobile,149,Partner,West,Mumbai,Smart TV,26,13,Active,,2026-10-27,Yes
+CUST0009,2024-07-02,Mobile,149,Organic,East,Ranchi,Smart TV,53,28,Active,,2026-10-18,Yes
+CUST0010,2024-03-26,Super,299,Social Media,North,Chandigarh,Laptop,52,31,Active,,2026-10-29,Yes
+CUST0011,2025-04-25,Mobile,149,Paid Search,North,Delhi,Smart TV,23,18,Churned,2026-10-09,2026-09-30,No
+CUST0012,2026-06-08,Premium,499,Organic,Central,Nagpur,Laptop,48,4,Active,,2026-10-19,Yes
+CUST0013,2025-11-02,Mobile,149,Organic,Central,Raipur,Smart TV,51,12,Active,,2026-10-28,Yes
+CUST0014,2025-11-25,Mobile,149,Organic,West,Pune,Laptop,37,11,Active,,2026-10-28,No
+CUST0015,2025-10-16,Premium,499,Partner,North,Delhi,Mobile,33,12,Active,,2026-10-26,Yes
+CUST0016,2025-12-17,Mobile,149,Organic,Central,Nagpur,Mobile,34,10,Active,,2026-10-26,Yes
+CUST0017,2025-04-13,Mobile,149,Organic,West,Ahmedabad,Laptop,31,18,Active,,2026-10-29,Yes
+CUST0018,2024-04-26,Mobile,149,Organic,East,Patna,Mobile,48,30,Churned,2026-10-28,2026-10-18,No
+CUST0019,2026-02-04,Mobile,149,Organic,North,Chandigarh,Mobile,56,8,Active,,2026-10-27,Yes
+CUST0020,2025-02-14,Mobile,149,Social Media,Central,Nagpur,Mobile,33,20,Active,,2026-10-28,Yes
+CUST0021,2025-04-01,Mobile,149,Organic,East,Patna,Laptop,44,19,Active,,2026-10-24,Yes
+CUST0022,2024-12-04,Mobile,149,Social Media,North,Jaipur,Mobile,53,23,Active,,2026-10-17,Yes
+CUST0023,2024-06-15,Mobile,149,Social Media,South,Bengaluru,Smart TV,50,28,Active,,2026-10-18,Yes
+CUST0024,2026-04-25,Super,299,Paid Search,East,Patna,Mobile,38,6,Active,,2026-10-30,Yes
+CUST0025,2025-12-13,Super,299,Organic,North,Jaipur,Mobile,50,10,Active,,2026-10-24,No
+CUST0026,2025-08-10,Super,299,Paid Search,South,Kochi,Laptop,27,14,Churned,2026-08-09,2026-07-23,No
+CUST0027,2025-01-02,Mobile,149,Social Media,East,Ranchi,Laptop,54,22,Active,,2026-10-30,No
+CUST0028,2026-01-20,Super,299,Organic,Central,Indore,Laptop,56,9,Active,,2026-10-30,Yes
+CUST0029,2025-05-12,Premium,499,Paid Search,North,Lucknow,Smart TV,29,17,Active,,2026-10-20,Yes
+CUST0030,2025-02-08,Premium,499,Paid Search,East,Patna,Mobile,32,21,Active,,2026-10-25,Yes
+CUST0031,2025-02-14,Mobile,149,Organic,Central,Indore,Smart TV,25,20,Active,,2026-10-28,Yes
+CUST0032,2024-07-26,Mobile,149,Partner,Central,Indore,Tablet,50,27,Churned,2026-07-29,2026-07-06,No
+CUST0033,2024-03-25,Mobile,149,Referral,Central,Nagpur,Laptop,18,31,Active,,2026-10-25,Yes
+CUST0034,2025-05-20,Mobile,149,Social Media,North,,Laptop,52,17,Churned,2026-07-21,2026-07-16,No
+CUST0035,2026-03-20,Super,299,Partner,Central,Bhopal,Smart TV,57,7,Active,,2026-10-18,Yes
+CUST0036,2024-02-28,Super,299,Referral,Central,Bhopal,Laptop,53,32,Active,,2026-10-17,Yes
+CUST0037,2026-02-21,Mobile,149,Paid Search,South,Kochi,Laptop,42,8,Churned,2026-09-10,2026-08-17,No
+CUST0038,2026-01-24,Super,299,Referral,East,Bhubaneswar,Smart TV,60,9,Active,,2026-10-28,Yes
+CUST0039,2024-09-09,Super,299,Paid Search,East,Patna,Smart TV,44,26,Active,,2026-10-25,Yes
+CUST0040,2025-07-30,Mobile,149,Social Media,East,Ranchi,Tablet,54,15,Active,,2026-10-20,Yes
+CUST0041,2024-05-30,Premium,499,Organic,South,Kochi,Smart TV,33,29,Active,,2026-10-28,Yes
+CUST0042,2025-11-22,Mobile,149,Referral,Central,Raipur,Smart TV,40,11,Churned,2026-06-04,2026-05-13,No
+CUST0043,2025-09-30,Premium,499,Referral,Central,Indore,Laptop,21,13,Active,,2026-10-20,Yes
+CUST0044,2024-11-19,Mobile,149,Organic,South,Kochi,Tablet,33,23,Active,,2026-10-29,Yes
+CUST0045,2024-03-02,Premium,499,Organic,Central,Raipur,Smart TV,35,32,Active,,2026-10-23,Yes
+CUST0046,2026-06-04,Premium,499,Referral,South,Chennai,Tablet,45,4,Active,,2026-10-24,Yes
+CUST0047,2025-02-10,Premium,499,Organic,West,Mumbai,Mobile,35,20,Active,,2026-10-29,Yes
+CUST0048,2026-03-25,Premium,499,Organic,East,Bhubaneswar,Smart TV,28,7,Active,,2026-10-30,Yes
+CUST0049,2025-09-10,Premium,499,Paid Search,East,Kolkata,Tablet,22,13,Active,,2026-10-17,Yes
+CUST0050,2025-12-10,Super,299,Paid Search,North,Delhi,Tablet,35,10,Churned,2026-10-05,2026-10-01,No
+CUST0051,2025-11-24,Premium,499,Paid Search,West,Surat,Tablet,26,11,Active,,2026-10-25,No
+CUST0052,2024-06-26,Mobile,149,Referral,South,Hyderabad,Mobile,45,28,Active,,2026-10-20,Yes
+CUST0053,2024-11-27,Super,299,Partner,South,Bengaluru,Laptop,29,23,Active,,2026-10-28,No
+CUST0054,2025-03-01,Super,299,Social Media,North,Lucknow,Mobile,57,20,Active,,2026-10-29,No
+CUST0055,2025-03-29,Premium,499,Organic,Central,Raipur,Tablet,29,19,Active,,2026-10-28,Yes
+CUST0056,2024-02-09,Super,299,Organic,North,Jaipur,Tablet,36,33,Active,,2026-10-31,Yes
+CUST0057,2025-05-13,Super,299,Paid Search,West,Mumbai,Laptop,44,17,Active,,2026-10-20,No
+CUST0058,2024-05-20,Super,299,Organic,Central,Indore,Mobile,40,29,Active,,2026-10-19,No
+CUST0059,2025-11-08,Mobile,149,Social Media,North,Lucknow,Smart TV,22,11,Active,,2026-10-31,Yes
+CUST0060,2025-09-14,Mobile,149,Partner,East,Kolkata,Laptop,51,13,Churned,2026-07-30,2026-07-27,No
+CUST0061,2026-04-21,Super,299,Organic,East,Kolkata,Mobile,49,6,Active,,2026-10-30,Yes
+CUST0062,2025-11-10,Super,299,Organic,South,Hyderabad,Tablet,40,11,Active,,2026-10-29,Yes
+CUST0063,2024-11-30,Mobile,149,Partner,West,Mumbai,Mobile,50,23,Active,,2026-10-29,Yes
+CUST0064,2026-06-01,Super,299,Social Media,East,Patna,Laptop,31,5,Churned,2026-06-05,2026-05-31,No
+CUST0065,2025-01-09,Super,299,Organic,East,Kolkata,Mobile,39,22,Active,,2026-10-24,Yes
+CUST0066,2024-10-24,Mobile,149,Partner,East,Kolkata,Mobile,59,24,Active,,2026-10-23,Yes
+CUST0067,2026-04-05,Super,299,Partner,Central,Bhopal,Tablet,30,6,Active,,2026-10-18,Yes
+CUST0068,2024-12-03,Super,299,Social Media,West,Mumbai,Smart TV,32,23,Active,,2026-10-21,No
+CUST0069,2024-03-10,Mobile,149,Social Media,South,Chennai,Tablet,53,32,Active,,2026-10-20,No
+CUST0070,2025-03-04,Premium,499,Organic,Central,Indore,Laptop,33,20,Active,,2026-10-18,Yes
+CUST0071,2025-12-26,Premium,499,Organic,Central,Nagpur,Smart TV,27,10,Active,,2026-10-22,Yes
+CUST0072,2024-06-21,Super,299,Social Media,Central,Indore,Laptop,22,28,Active,,2026-10-30,Yes
+CUST0073,2025-02-26,Mobile,149,Referral,West,Surat,Laptop,44,20,Active,,2026-10-27,No
+CUST0074,2024-04-28,Super,299,Social Media,South,Kochi,Tablet,28,30,Active,,2026-10-17,Yes
+CUST0075,2025-09-18,Premium,499,Paid Search,West,Mumbai,Smart TV,30,13,Active,,2026-10-20,No
+CUST0076,2025-03-09,Super,299,Organic,South,Chennai,Mobile,27,20,Churned,2026-07-24,2026-07-13,No
+CUST0077,2024-10-28,Premium,499,Social Media,South,Hyderabad,Mobile,42,24,Active,,2026-10-27,Yes
+CUST0078,2024-07-25,Super,299,Organic,East,Kolkata,Smart TV,53,27,Churned,2026-08-24,2026-08-16,No
+CUST0079,2025-05-29,Super,299,Paid Search,Central,Bhopal,Mobile,35,17,Churned,2026-06-24,2026-06-03,No
+CUST0080,2025-09-02,Mobile,149,Organic,East,Bhubaneswar,Smart TV,20,14,Active,,2026-10-18,Yes
+CUST0081,2026-05-07,Super,299,Social Media,South,Bengaluru,Mobile,55,5,Active,,2026-10-24,Yes
+CUST0082,2025-02-02,Mobile,149,Social Media,East,Patna,Mobile,27,21,Active,,2026-10-27,Yes
+CUST0083,2024-05-26,Super,299,Referral,South,Chennai,Laptop,28,29,Active,,2026-10-20,Yes
+CUST0084,2026-01-29,Premium,499,Social Media,West,Surat,Smart TV,37,9,Churned,2026-09-10,2026-08-18,No
+CUST0085,2025-07-28,Mobile,149,Paid Search,South,Chennai,Tablet,33,15,Active,,2026-10-21,Yes
+CUST0086,2025-09-30,Super,299,Social Media,East,Kolkata,Tablet,23,13,Active,,2026-10-20,Yes
+CUST0087,2024-03-29,Mobile,149,Paid Search,South,Kochi,Smart TV,56,31,Churned,2026-08-25,2026-08-25,No
+CUST0088,2024-10-11,Super,299,Partner,South,Bengaluru,Mobile,33,25,Active,,2026-10-31,Yes
+CUST0089,2025-12-01,Mobile,149,Referral,Central,Nagpur,Laptop,25,11,Churned,2026-09-21,2026-08-28,No
+CUST0090,2026-01-29,Premium,499,Social Media,South,Kochi,Tablet,53,9,Active,,2026-10-18,Yes
+CUST0091,2025-01-31,Mobile,149,Organic,North,Chandigarh,Mobile,21,21,Churned,2026-09-11,2026-09-08,No
+CUST0092,2026-01-03,Premium,499,Paid Search,South,Bengaluru,Mobile,20,10,Churned,2026-09-04,2026-09-03,No
+CUST0093,2026-02-06,Premium,499,Social Media,East,Ranchi,Laptop,23,8,Churned,2026-06-05,2026-06-05,No
+CUST0094,2024-12-19,Super,299,Referral,North,Delhi,Smart TV,42,22,Active,,2026-10-20,Yes
+CUST0095,2026-03-30,Premium,499,Organic,South,Chennai,Smart TV,55,7,Active,,2026-10-25,Yes
+CUST0096,2024-09-19,Premium,499,Partner,North,Chandigarh,Smart TV,48,25,Active,,2026-10-17,Yes
+CUST0097,2024-08-06,Premium,499,Referral,East,Ranchi,Smart TV,38,27,Active,,2026-10-29,Yes
+CUST0098,2025-09-14,Mobile,149,Paid Search,West,Ahmedabad,Tablet,29,13,Active,,2026-10-20,Yes
+CUST0099,2025-08-03,Super,299,Organic,Central,Indore,Mobile,54,15,Active,,2026-10-20,Yes
+CUST0100,2024-05-07,Mobile,149,Partner,South,Kochi,Mobile,54,30,Active,,2026-10-22,Yes
+CUST0101,2026-01-29,Super,299,Organic,Central,Bhopal,Mobile,31,9,Active,,2026-10-28,Yes
+CUST0102,2024-07-01,Mobile,149,Organic,South,Bengaluru,Smart TV,57,28,Active,,2026-10-22,Yes
+CUST0103,2026-01-04,Super,299,Paid Search,West,Pune,Tablet,30,10,Active,,2026-10-28,Yes
+CUST0104,2024-01-07,Super,299,Partner,East,Ranchi,Tablet,44,34,Active,,2026-10-25,Yes
+CUST0105,2025-12-27,Super,299,Organic,West,Pune,Tablet,44,10,Churned,2026-09-12,2026-08-26,No
+CUST0106,2025-12-18,Super,299,Social Media,West,Mumbai,Smart TV,44,10,Active,,2026-10-21,Yes
+CUST0107,2025-12-12,Premium,499,Paid Search,East,Ranchi,Mobile,36,10,Active,,2026-10-30,Yes
+CUST0108,2025-08-29,Premium,499,Paid Search,South,Kochi,Laptop,53,14,Active,,2026-10-30,Yes
+CUST0109,2025-03-06,Super,299,Referral,East,Ranchi,Laptop,37,20,Active,,2026-10-20,Yes
+CUST0110,2025-10-05,Super,299,Social Media,Central,Nagpur,Tablet,41,13,Active,,2026-10-23,Yes
+CUST0111,2024-09-09,Premium,499,Paid Search,Central,Indore,Smart TV,57,26,Active,,2026-10-24,Yes
+CUST0112,2025-12-13,Mobile,149,Paid Search,Central,Raipur,Smart TV,60,10,Active,,2026-10-24,Yes
+CUST0113,2025-05-21,Mobile,149,Paid Search,North,Delhi,Mobile,46,17,Active,,2026-10-20,No
+CUST0114,2025-02-22,Mobile,149,Social Media,East,Patna,Mobile,41,20,Active,,2026-10-24,No
+CUST0115,2025-04-06,Super,299,Organic,North,Delhi,Tablet,43,19,Active,,2026-10-24,Yes
+CUST0116,2025-06-02,Super,299,Partner,West,Pune,Mobile,18,17,Churned,2026-10-04,2026-09-20,No
+CUST0117,2024-02-03,Premium,499,Paid Search,Central,Bhopal,Smart TV,51,33,Active,,2026-10-26,Yes
+CUST0118,2024-05-07,Super,299,Paid Search,North,Delhi,Mobile,59,30,Churned,2026-09-28,2026-09-14,No
+CUST0119,2024-08-11,Mobile,149,Organic,West,Pune,Tablet,59,27,Active,,2026-10-29,Yes
+CUST0120,2024-04-14,Premium,499,Organic,Central,Bhopal,Smart TV,34,31,Active,,2026-10-29,Yes
+CUST0121,2025-02-04,Premium,499,Paid Search,Central,Bhopal,Mobile,24,21,Active,,2026-10-22,No
+CUST0122,2025-09-01,Mobile,149,Organic,South,Kochi,Laptop,24,14,Active,,2026-10-28,No
+CUST0123,2025-08-19,Super,299,Partner,North,Lucknow,Smart TV,52,14,Active,,2026-10-20,Yes
+CUST0124,2025-03-05,Mobile,149,Referral,Central,Raipur,Smart TV,29,20,Churned,2026-09-27,2026-09-10,No
+CUST0125,2026-02-18,Mobile,149,Paid Search,Central,Raipur,Tablet,60,8,Active,,2026-10-20,No
+CUST0126,2025-05-30,Mobile,149,Partner,East,Kolkata,Laptop,45,17,Active,,2026-10-26,No
+CUST0127,2024-03-13,Premium,499,Referral,Central,Nagpur,Laptop,26,32,Active,,2026-10-27,Yes
+CUST0128,2025-11-28,Super,299,Referral,North,Delhi,Mobile,31,11,Active,,2026-10-28,Yes
+CUST0129,2025-06-08,Super,299,Social Media,West,Surat,Mobile,60,17,Active,,2026-10-25,No
+CUST0130,2025-08-01,Super,299,Social Media,North,Delhi,Smart TV,29,15,Active,,2026-10-17,Yes
+CUST0131,2025-05-30,Super,299,Referral,Central,Raipur,Smart TV,42,17,Active,,2026-10-30,Yes
+CUST0132,2025-05-19,Premium,499,Social Media,West,Ahmedabad,Mobile,35,17,Active,,2026-10-25,Yes
+CUST0133,2024-03-23,Premium,499,Partner,Central,Indore,Laptop,32,31,Active,,2026-10-25,Yes
+CUST0134,2025-05-24,Super,299,Social Media,East,Patna,Smart TV,54,17,Active,,2026-10-24,Yes
+CUST0135,2025-12-25,Super,299,Organic,North,Chandigarh,Laptop,50,10,Active,,2026-10-30,Yes
+CUST0136,2024-10-04,Premium,499,Referral,North,Delhi,Laptop,22,25,Churned,2026-06-07,2026-05-31,No
+CUST0137,2025-07-03,Super,299,Referral,South,Bengaluru,Smart TV,56,16,Active,,2026-10-29,Yes
+CUST0138,2024-01-29,Premium,499,Organic,West,Ahmedabad,Mobile,43,33,Churned,2026-09-20,2026-08-28,No
+CUST0139,2024-11-12,Mobile,149,Organic,North,Delhi,Smart TV,22,23,Churned,2026-10-27,2026-10-06,No
+CUST0140,2025-02-02,Premium,499,Paid Search,Central,Raipur,Laptop,27,21,Active,,2026-10-29,Yes
+CUST0141,2026-06-15,Super,299,Referral,South,Chennai,Laptop,52,4,Churned,2026-08-25,2026-08-14,No
+CUST0142,2024-07-14,Mobile,149,Partner,East,Kolkata,Laptop,18,27,Active,,2026-10-30,Yes
+CUST0143,2024-09-09,Super,299,Organic,South,Kochi,Laptop,41,26,Active,,2026-10-26,Yes
+CUST0144,2025-01-07,Super,299,Organic,East,Bhubaneswar,Mobile,46,22,Active,,2026-10-19,Yes
+CUST0145,2026-06-24,Mobile,149,Paid Search,East,Ranchi,Laptop,58,4,Active,,2026-10-17,Yes
+CUST0146,2026-02-17,Super,299,Partner,North,Delhi,Mobile,38,8,Active,,2026-10-18,Yes
+CUST0147,2024-02-01,Premium,499,Organic,East,Patna,Smart TV,19,33,Active,,2026-10-20,Yes
+CUST0148,2024-08-01,Mobile,149,Organic,West,Ahmedabad,Smart TV,18,27,Active,,2026-10-26,Yes
+CUST0149,2026-01-19,Super,299,Organic,Central,Nagpur,Tablet,44,9,Active,,2026-10-28,Yes
+CUST0150,2024-02-23,Super,299,Social Media,South,Bengaluru,Mobile,48,32,Active,,2026-10-28,Yes
+CUST0151,2026-02-19,Mobile,149,Social Media,Central,Bhopal,Smart TV,43,8,Active,,2026-10-22,Yes
+CUST0152,2024-09-13,Premium,499,Organic,Central,Bhopal,Laptop,42,25,Churned,2026-06-24,2026-06-19,No
+CUST0153,2026-04-16,Premium,499,Organic,Central,Indore,Tablet,21,6,Active,,2026-10-25,No
+CUST0154,2024-09-24,Mobile,149,Social Media,South,Chennai,Mobile,36,25,Active,,2026-10-29,No
+CUST0155,2025-01-31,Premium,499,Partner,Central,Raipur,Laptop,57,21,Churned,2026-09-30,2026-09-23,No
+CUST0156,2025-08-26,Premium,499,Social Media,East,Bhubaneswar,Laptop,18,14,Active,,2026-10-24,Yes
+CUST0157,2024-04-25,Mobile,149,Social Media,North,Jaipur,Smart TV,56,30,Active,,2026-10-29,No
+CUST0158,2025-05-23,Premium,499,Organic,South,Bengaluru,Laptop,21,17,Active,,2026-10-20,No
+CUST0159,2025-04-05,Mobile,149,Organic,West,Surat,Smart TV,44,19,Active,,2026-10-17,Yes
+CUST0160,2025-12-15,Premium,499,Referral,North,Jaipur,Smart TV,24,10,Active,,2026-10-24,Yes
+CUST0161,2026-06-27,Super,299,Paid Search,East,Kolkata,Tablet,25,4,Churned,2026-07-18,2026-06-30,No
+CUST0162,2025-08-28,Super,299,Paid Search,West,Mumbai,Smart TV,49,14,Active,,2026-10-19,Yes
+CUST0163,2025-01-08,Mobile,149,Partner,North,Lucknow,Tablet,23,22,Active,,2026-10-24,Yes
+CUST0164,2025-01-05,Premium,499,Partner,East,Kolkata,Laptop,34,22,Active,,2026-10-21,Yes
+CUST0165,2025-01-16,Mobile,149,Partner,South,Chennai,Mobile,40,21,Active,,2026-10-28,Yes
+CUST0166,2026-01-12,Mobile,149,Partner,East,Ranchi,Mobile,46,9,Active,,2026-10-20,No
+CUST0167,2024-10-19,Mobile,149,Organic,South,Kochi,Smart TV,44,24,Churned,2026-09-04,2026-08-21,No
+CUST0168,2024-06-01,Premium,499,Organic,Central,Indore,Tablet,29,29,Active,,2026-10-30,Yes
+CUST0169,2024-10-31,Mobile,149,Referral,North,Lucknow,Laptop,24,24,Active,,2026-10-23,Yes
+CUST0170,2024-01-21,Premium,499,Social Media,Central,Indore,Smart TV,32,33,Active,,2026-10-19,Yes
+CUST0171,2024-04-06,Super,299,Organic,West,Mumbai,Smart TV,50,31,Active,,2026-10-20,Yes
+CUST0172,2024-03-23,Mobile,149,Paid Search,Central,Nagpur,Laptop,49,31,Churned,2026-10-27,2026-10-06,No
+CUST0173,2025-12-04,Mobile,149,Social Media,Central,Raipur,Mobile,19,11,Active,,2026-10-24,No
+CUST0174,2025-10-20,Mobile,149,Social Media,North,Lucknow,Laptop,26,12,Active,,2026-10-25,No
+CUST0175,2025-09-27,Super,299,Organic,Central,Nagpur,Laptop,30,13,Active,,2026-10-30,Yes
+CUST0176,2025-02-25,Premium,499,Organic,East,Bhubaneswar,Mobile,23,20,Active,,2026-10-29,Yes
+CUST0177,2025-10-15,Mobile,149,Organic,Central,Raipur,Smart TV,36,12,Churned,2026-10-23,2026-10-18,No
+CUST0178,2024-05-27,Premium,499,Paid Search,Central,Raipur,Mobile,40,29,Active,,2026-10-23,Yes
+CUST0179,2026-04-01,Mobile,149,Social Media,East,Bhubaneswar,Tablet,31,7,Churned,2026-07-20,2026-07-05,No
+CUST0180,2025-04-01,Premium,499,Paid Search,South,Hyderabad,Laptop,50,19,Active,,2026-10-26,Yes
+CUST0181,2026-05-05,Premium,499,Referral,North,Chandigarh,Mobile,37,5,Churned,2026-10-14,2026-10-06,No
+CUST0182,2024-05-18,Premium,499,Referral,North,Chandigarh,Smart TV,52,29,Active,,2026-10-20,Yes
+CUST0183,2025-03-29,Super,299,Referral,South,Hyderabad,Mobile,43,19,Active,,2026-10-28,Yes
+CUST0184,2025-09-27,Premium,499,Paid Search,Central,Nagpur,Mobile,32,13,Active,,2026-10-20,Yes
+CUST0185,2025-03-28,Mobile,149,Paid Search,East,Kolkata,Laptop,53,19,Churned,2026-10-16,2026-09-27,No
+CUST0186,2025-02-10,Mobile,149,Organic,East,Ranchi,Mobile,43,20,Churned,2026-06-12,2026-05-19,No
+CUST0187,2024-05-31,Mobile,149,Partner,South,Hyderabad,Laptop,30,29,Active,,2026-10-18,Yes
+CUST0188,2024-12-13,Super,299,Organic,East,Bhubaneswar,Laptop,57,22,Active,,2026-10-27,No
+CUST0189,2024-08-05,Super,299,Partner,West,Ahmedabad,Tablet,59,27,Churned,2026-09-06,2026-08-26,No
+CUST0190,2024-10-01,Super,299,Organic,Central,Raipur,Tablet,32,25,Churned,2026-08-10,2026-07-22,No
+CUST0191,2025-09-15,Premium,499,Organic,West,Ahmedabad,Smart TV,18,13,Active,,2026-10-29,Yes
+CUST0192,2025-07-28,Mobile,149,Paid Search,West,Pune,Tablet,31,15,Active,,2026-10-24,Yes
+CUST0193,2025-07-07,Super,299,Organic,Central,Nagpur,Smart TV,38,16,Active,,2026-10-27,Yes
+CUST0194,2024-11-25,Mobile,149,Referral,East,Patna,Tablet,60,23,Churned,2026-07-14,2026-06-21,No
+CUST0195,2026-05-25,Mobile,149,Referral,Central,Bhopal,Laptop,19,5,Active,,2026-10-28,Yes
+CUST0196,2024-03-20,Super,299,Organic,South,Hyderabad,Smart TV,49,31,Active,,2026-10-30,No
+CUST0197,2024-11-08,Premium,499,Paid Search,North,Chandigarh,Laptop,55,24,Active,,2026-10-24,No
+CUST0198,2024-04-17,Super,299,Paid Search,East,Ranchi,Tablet,23,30,Active,,2026-10-24,No
+CUST0199,2024-11-05,Mobile,149,Paid Search,North,Chandigarh,Smart TV,32,24,Active,,2026-10-27,No
+CUST0200,2026-05-27,Super,299,Referral,North,Chandigarh,Smart TV,30,5,Churned,2026-08-12,2026-07-26,No
+CUST0201,2024-11-30,Mobile,149,Social Media,Central,Bhopal,Laptop,42,23,Churned,2026-08-31,2026-08-22,No
+CUST0202,2026-04-08,Premium,499,Organic,West,Ahmedabad,Mobile,37,6,Active,,2026-10-28,Yes
+CUST0203,2025-03-27,Super,299,Organic,South,Chennai,Laptop,39,19,Active,,2026-10-29,Yes
+CUST0204,2025-09-30,Mobile,149,Organic,Central,Indore,Smart TV,37,13,Active,,2026-10-26,Yes
+CUST0205,2025-02-21,Mobile,149,Partner,North,Jaipur,Mobile,20,20,Active,,2026-10-25,Yes
+CUST0206,2024-08-30,Mobile,149,Partner,South,Bengaluru,Smart TV,36,26,Active,,2026-10-23,Yes
+CUST0207,2025-11-27,Premium,499,Paid Search,West,Surat,Mobile,41,11,Active,,2026-10-26,Yes
+CUST0208,2026-06-02,Super,299,Social Media,South,Kochi,Tablet,32,5,Active,,2026-10-30,Yes
+CUST0209,2024-08-28,Premium,499,Social Media,West,Pune,Tablet,27,26,Active,,2026-10-30,Yes
+CUST0210,2025-12-11,Super,299,Social Media,Central,Nagpur,Tablet,47,10,Active,,2026-10-22,Yes
+CUST0211,2024-08-26,Super,299,Social Media,North,Jaipur,Smart TV,40,26,Churned,2026-06-05,2026-06-03,No
+CUST0212,2025-10-15,Mobile,149,Referral,North,Delhi,Mobile,25,12,Active,,2026-10-20,Yes
+CUST0213,2025-12-20,Premium,499,Organic,Central,Nagpur,Smart TV,44,10,Churned,2026-10-20,2026-09-27,No
+CUST0214,2025-02-13,Mobile,149,Organic,East,Kolkata,Tablet,22,20,Churned,2026-09-21,2026-08-29,No
+CUST0215,2025-11-03,Super,299,Partner,East,Bhubaneswar,Smart TV,29,12,Active,,2026-10-26,Yes
+CUST0216,2024-09-05,Super,299,Social Media,East,Bhubaneswar,Tablet,26,26,Active,,2026-10-27,Yes
+CUST0217,2024-03-13,Super,299,Partner,East,Kolkata,Tablet,32,32,Active,,2026-10-17,Yes
+CUST0218,2024-03-28,Premium,499,Organic,West,Ahmedabad,Tablet,27,31,Churned,2026-08-01,2026-08-01,No
+CUST0219,2025-02-11,Mobile,149,Social Media,East,Ranchi,Tablet,43,20,Active,,2026-10-28,No
+CUST0220,2026-04-03,Super,299,Organic,North,Jaipur,Tablet,52,7,Active,,2026-10-17,Yes
+CUST0221,2024-04-26,Super,299,Organic,West,Surat,Laptop,20,30,Active,,2026-10-24,No
+CUST0222,2025-02-19,Super,299,Organic,West,Pune,Laptop,25,20,Active,,2026-10-20,Yes
+CUST0223,2025-10-04,Mobile,149,Organic,North,Chandigarh,Smart TV,50,13,Active,,2026-10-25,No
+CUST0224,2024-07-03,Mobile,149,Partner,South,Hyderabad,Tablet,60,28,Churned,2026-09-15,2026-08-23,No
+CUST0225,2025-10-20,Mobile,149,Referral,West,Mumbai,Laptop,22,12,Active,,2026-10-31,Yes
+CUST0226,2024-10-06,Mobile,149,Social Media,West,Pune,Laptop,49,25,Churned,2026-07-23,2026-07-04,No
+CUST0227,2026-01-07,Super,299,Social Media,North,Lucknow,Laptop,40,9,Active,,2026-10-20,Yes
+CUST0228,2025-06-12,Super,299,Referral,North,Delhi,Smart TV,60,16,Active,,2026-10-19,Yes
+CUST0229,2025-05-13,Super,299,Social Media,East,Kolkata,Smart TV,37,17,Active,,2026-10-25,Yes
+CUST0230,2024-06-10,Super,299,Organic,East,Ranchi,Smart TV,20,29,Active,,2026-10-28,Yes
+CUST0231,2025-02-26,Super,299,Partner,Central,Indore,Mobile,57,20,Active,,2026-10-18,Yes
+CUST0232,2026-02-20,Mobile,149,Paid Search,East,Ranchi,Tablet,20,8,Active,,2026-10-25,Yes
+CUST0233,2024-01-18,Super,299,Paid Search,Central,Raipur,Tablet,20,33,Active,,2026-10-25,Yes
+CUST0234,2025-11-22,Mobile,149,Social Media,South,Kochi,Mobile,41,11,Active,,2026-10-29,No
+CUST0235,2025-03-25,Mobile,149,Organic,East,Kolkata,Tablet,59,19,Churned,2026-08-30,2026-08-14,No
+CUST0236,2025-10-18,Super,299,Partner,North,Chandigarh,Mobile,59,12,Active,,2026-10-24,No
+CUST0237,2025-08-27,Super,299,Referral,East,Ranchi,Tablet,42,14,Churned,2026-06-14,2026-06-01,No
+CUST0238,2025-01-29,Mobile,149,Organic,North,Delhi,Laptop,31,21,Active,,2026-10-29,Yes
+CUST0239,2024-10-08,Super,299,Referral,East,Patna,Tablet,58,25,Active,,2026-10-23,Yes
+CUST0240,2025-07-26,Super,299,Paid Search,South,Kochi,Smart TV,29,15,Active,,2026-10-30,Yes
+CUST0241,2024-05-07,Super,299,Social Media,North,Chandigarh,Smart TV,18,30,Active,,2026-10-31,Yes
+CUST0242,2025-06-16,Super,299,Paid Search,North,Lucknow,Tablet,21,16,Active,,2026-10-30,Yes
+CUST0243,2024-03-27,Super,299,Paid Search,East,Ranchi,Mobile,29,31,Active,,2026-10-22,Yes
+CUST0244,2025-08-15,Mobile,149,Organic,Central,Nagpur,Laptop,23,14,Active,,2026-10-18,Yes
+CUST0245,2025-07-27,Premium,499,Partner,North,,Smart TV,38,15,Active,,2026-10-23,Yes
+CUST0246,2024-03-18,Super,299,Referral,East,Ranchi,Smart TV,50,31,Active,,2026-10-29,No
+CUST0247,2025-11-21,Super,299,Social Media,South,Bengaluru,Tablet,51,11,Active,,2026-10-25,Yes
+CUST0248,2025-01-14,Super,299,Organic,Central,Bhopal,Mobile,57,21,Churned,2026-06-15,2026-06-01,No
+CUST0249,2025-12-18,Super,299,Partner,East,Ranchi,Smart TV,31,10,Active,,2026-10-26,Yes
+CUST0250,2024-02-07,Super,299,Referral,Central,Nagpur,Smart TV,35,33,Active,,2026-10-20,Yes
+CUST0251,2024-06-12,Super,299,Organic,South,Bengaluru,Laptop,28,29,Active,,2026-10-19,Yes
+CUST0252,2025-03-26,Premium,499,Referral,North,Chandigarh,Laptop,23,19,Churned,2026-08-03,2026-08-03,No
+CUST0253,2024-06-20,Premium,499,Organic,East,Kolkata,Tablet,43,28,Active,,2026-10-22,Yes
+CUST0254,2024-10-27,Super,299,Organic,West,Ahmedabad,Laptop,56,24,Active,,2026-10-22,No
+CUST0255,2025-08-25,Super,299,Social Media,Central,Nagpur,Laptop,31,14,Churned,2026-07-11,2026-06-20,No
+CUST0256,2024-05-11,Premium,499,Referral,Central,Nagpur,Laptop,41,30,Active,,2026-10-18,Yes
+CUST0257,2025-09-10,Mobile,149,Partner,Central,Bhopal,Tablet,41,13,Churned,2026-08-22,2026-08-13,No
+CUST0258,2024-04-04,Premium,499,Referral,West,Mumbai,Mobile,26,31,Active,,2026-10-28,Yes
+CUST0259,2024-06-08,Super,299,Paid Search,South,Hyderabad,Smart TV,32,29,Active,,2026-10-29,Yes
+CUST0260,2025-06-19,Mobile,149,Social Media,East,Bhubaneswar,Mobile,60,16,Active,,2026-10-26,Yes
+CUST0261,2025-12-24,Mobile,149,Social Media,North,Delhi,Smart TV,29,10,Active,,2026-10-20,Yes
+CUST0262,2024-06-04,Premium,499,Social Media,East,Kolkata,Mobile,57,29,Active,,2026-10-17,Yes
+CUST0263,2024-09-30,Mobile,149,Social Media,South,Chennai,Smart TV,60,25,Active,,2026-10-20,No
+CUST0264,2026-04-23,Mobile,149,Partner,North,Jaipur,Tablet,18,6,Active,,2026-10-21,Yes
+CUST0265,2026-06-21,Mobile,149,Referral,South,Bengaluru,Smart TV,50,4,Churned,2026-10-17,2026-09-30,No
+CUST0266,2025-06-13,Mobile,149,Organic,East,Ranchi,Laptop,49,16,Active,,2026-10-30,No
+CUST0267,2025-02-11,Mobile,149,Social Media,South,Hyderabad,Smart TV,44,20,Active,,2026-10-18,Yes
+CUST0268,2024-11-12,Super,299,Paid Search,Central,Bhopal,Smart TV,55,23,Active,,2026-10-24,Yes
+CUST0269,2025-07-12,Mobile,149,Organic,East,Patna,Mobile,27,15,Active,,2026-10-21,No
+CUST0270,2025-06-22,Premium,499,Referral,Central,Bhopal,Laptop,36,16,Active,,2026-10-24,Yes
+CUST0271,2024-09-25,Premium,499,Partner,West,Surat,Tablet,48,25,Active,,2026-10-21,Yes
+CUST0272,2024-01-21,Super,299,Paid Search,North,Jaipur,Mobile,48,33,Churned,2026-08-18,2026-07-27,No
+CUST0273,2024-05-18,Mobile,149,Partner,South,Chennai,Mobile,30,29,Churned,2026-07-09,2026-07-03,No
+CUST0274,2026-05-24,Super,299,Social Media,West,Ahmedabad,Mobile,48,5,Active,,2026-10-29,Yes
+CUST0275,2025-01-16,Mobile,149,Social Media,East,Bhubaneswar,Laptop,30,21,Active,,2026-10-22,Yes
+CUST0276,2025-03-15,Super,299,Referral,South,Kochi,Laptop,19,19,Active,,2026-10-22,Yes
+CUST0277,2025-03-02,Premium,499,Partner,East,Bhubaneswar,Laptop,58,20,Active,,2026-10-17,Yes
+CUST0278,2025-12-14,Premium,499,Referral,Central,Bhopal,Tablet,38,10,Active,,2026-10-28,Yes
+CUST0279,2024-02-29,Premium,499,Paid Search,South,Kochi,Mobile,40,32,Active,,2026-10-20,Yes
+CUST0280,2024-03-16,Mobile,149,Referral,North,Chandigarh,Laptop,56,31,Active,,2026-10-22,No
+CUST0281,2024-09-08,Super,299,Social Media,South,Kochi,Smart TV,18,26,Churned,2026-09-02,2026-08-24,No
+CUST0282,2025-03-19,Super,299,Paid Search,Central,Nagpur,Smart TV,24,19,Active,,2026-10-29,Yes
+CUST0283,2025-09-04,Super,299,Social Media,West,Ahmedabad,Tablet,53,14,Active,,2026-10-27,No
+CUST0284,2025-03-23,Super,299,Partner,Central,Nagpur,Tablet,20,19,Churned,2026-08-18,2026-07-26,No
+CUST0285,2025-02-06,Mobile,149,Referral,Central,Raipur,Laptop,21,21,Active,,2026-10-20,Yes
+CUST0286,2026-05-05,Mobile,149,Social Media,North,Jaipur,Mobile,26,5,Active,,2026-10-27,Yes
+CUST0287,2024-05-26,Super,299,Referral,South,Hyderabad,Tablet,39,29,Active,,2026-10-25,Yes
+CUST0288,2025-06-05,Mobile,149,Referral,North,Jaipur,Tablet,53,17,Active,,2026-10-27,Yes
+CUST0289,2025-05-09,Mobile,149,Referral,North,Chandigarh,Laptop,47,18,Active,,2026-10-30,No
+CUST0290,2025-03-07,Premium,499,Organic,Central,Bhopal,Tablet,42,20,Active,,2026-10-23,Yes
+CUST0291,2026-01-06,Premium,499,Organic,Central,Raipur,Smart TV,20,9,Active,,2026-10-21,Yes
+CUST0292,2024-08-31,Super,299,Social Media,North,Chandigarh,Smart TV,49,26,Active,,2026-10-31,Yes
+CUST0293,2026-05-19,Premium,499,Social Media,West,Ahmedabad,Laptop,53,5,Active,,2026-10-21,Yes
+CUST0294,2024-10-29,Premium,499,Social Media,East,Patna,Laptop,41,24,Churned,2026-06-20,2026-06-19,No
+CUST0295,2025-05-12,Mobile,149,Organic,North,Lucknow,Mobile,41,17,Churned,2026-06-25,2026-06-14,No
+CUST0296,2025-04-19,Super,299,Referral,Central,Indore,Mobile,52,18,Active,,2026-10-27,Yes
+CUST0297,2026-02-13,Super,299,Organic,Central,Indore,Tablet,60,8,Active,,2026-10-18,Yes
+CUST0298,2025-02-04,Mobile,149,Paid Search,East,Ranchi,Smart TV,20,21,Active,,2026-10-17,Yes
+CUST0299,2024-09-16,Premium,499,Paid Search,West,Surat,Tablet,46,25,Active,,2026-10-30,Yes
+CUST0300,2024-01-20,Super,299,Organic,South,Kochi,Mobile,35,33,Active,,2026-10-19,Yes
+CUST0301,2024-11-27,Super,299,Social Media,West,Mumbai,Laptop,37,23,Active,,2026-10-28,Yes
+CUST0302,2026-01-23,Mobile,149,Organic,East,Kolkata,Tablet,28,9,Active,,2026-10-20,Yes
+CUST0303,2024-01-10,Mobile,149,Organic,Central,Indore,Laptop,27,34,Churned,2026-07-02,2026-06-11,No
+CUST0304,2026-03-28,Premium,499,Organic,North,Lucknow,Tablet,47,7,Churned,2026-08-02,2026-07-22,No
+CUST0305,2025-05-10,Mobile,149,Referral,North,Lucknow,Tablet,28,17,Active,,2026-10-30,Yes
+CUST0306,2024-05-07,Mobile,149,Social Media,Central,Raipur,Laptop,30,30,Churned,2026-10-14,2026-10-13,No
+CUST0307,2024-10-02,Mobile,149,Partner,South,Kochi,Laptop,29,25,Active,,2026-10-20,Yes
+CUST0308,2025-05-20,Super,299,Organic,South,Hyderabad,Laptop,43,17,Churned,2026-10-24,2026-10-03,No
+CUST0309,2024-10-14,Super,299,Social Media,West,Pune,Mobile,33,24,Active,,2026-10-19,Yes
+CUST0310,2024-04-09,Super,299,Paid Search,North,Jaipur,Laptop,60,31,Active,,2026-10-29,Yes
+CUST0311,2025-08-30,Mobile,149,Partner,East,Bhubaneswar,Smart TV,34,14,Churned,2026-08-16,2026-08-13,No
+CUST0312,2025-09-05,Mobile,149,Social Media,South,Chennai,Smart TV,27,14,Active,,2026-10-23,Yes
+CUST0313,2024-04-18,Premium,499,Organic,North,Chandigarh,Laptop,34,30,Active,,2026-10-20,Yes
+CUST0314,2024-09-13,Super,299,Social Media,Central,Raipur,Mobile,50,25,Active,,2026-10-19,Yes
+CUST0315,2024-08-10,Super,299,Referral,North,Jaipur,Laptop,41,27,Active,,2026-10-27,No
+CUST0316,2025-08-24,Super,299,Partner,North,Jaipur,Laptop,26,14,Active,,2026-10-21,Yes
+CUST0317,2025-10-28,Premium,499,Referral,West,Pune,Laptop,28,12,Churned,2026-08-11,2026-08-02,No
+CUST0318,2025-10-25,Mobile,149,Paid Search,Central,Bhopal,Smart TV,20,12,Active,,2026-10-29,No
+CUST0319,2026-05-06,Super,299,Organic,North,Lucknow,Mobile,50,5,Churned,2026-10-16,2026-10-12,No
+CUST0320,2025-12-02,Super,299,Referral,West,Mumbai,Laptop,56,11,Churned,2026-07-08,2026-07-05,No
+CUST0321,2024-10-19,Mobile,149,Paid Search,East,Kolkata,Tablet,20,24,Active,,2026-10-30,Yes
+CUST0322,2024-04-08,Premium,499,Social Media,Central,Bhopal,Mobile,50,31,Active,,2026-10-28,No
+CUST0323,2025-07-14,Super,299,Referral,North,Lucknow,Tablet,43,15,Active,,2026-10-18,Yes
+CUST0324,2026-04-15,Premium,499,Partner,Central,Nagpur,Tablet,59,6,Active,,2026-10-29,Yes
+CUST0325,2026-06-08,Premium,499,Paid Search,West,Ahmedabad,Smart TV,36,4,Active,,2026-10-25,Yes
+CUST0326,2024-07-28,Super,299,Referral,Central,Bhopal,Laptop,24,27,Active,,2026-10-24,Yes
+CUST0327,2024-08-03,Premium,499,Social Media,South,Kochi,Mobile,38,27,Active,,2026-10-26,Yes
+CUST0328,2024-02-04,Super,299,Social Media,Central,Bhopal,Tablet,54,33,Churned,2026-08-20,2026-08-10,No
+CUST0329,2024-05-08,Premium,499,Social Media,West,Surat,Mobile,32,30,Active,,2026-10-23,Yes
+CUST0330,2025-05-21,Mobile,149,Referral,North,Delhi,Smart TV,30,17,Active,,2026-10-22,Yes
+CUST0331,2025-05-13,Super,299,Organic,Central,Indore,Laptop,19,17,Active,,2026-10-20,Yes
+CUST0332,2024-12-04,Super,299,Partner,West,Mumbai,Smart TV,54,23,Active,,2026-10-22,No
+CUST0333,2024-10-09,Mobile,149,Partner,South,Bengaluru,Tablet,32,25,Active,,2026-10-24,Yes
+CUST0334,2026-01-26,Super,299,Paid Search,East,Kolkata,Tablet,49,9,Churned,2026-10-17,2026-10-17,No
+CUST0335,2025-02-23,Premium,499,Partner,South,Kochi,Tablet,43,20,Active,,2026-10-26,Yes
+CUST0336,2026-01-07,Super,299,Paid Search,East,Patna,Tablet,37,9,Active,,2026-10-21,No
+CUST0337,2026-05-28,Mobile,149,Paid Search,Central,Raipur,Mobile,40,5,Active,,2026-10-26,Yes
+CUST0338,2024-10-16,Mobile,149,Paid Search,Central,Bhopal,Smart TV,34,24,Churned,2026-07-06,2026-07-03,No
+CUST0339,2024-07-03,Mobile,149,Social Media,South,Chennai,Laptop,57,28,Active,,2026-10-29,Yes
+CUST0340,2026-05-19,Mobile,149,Referral,Central,Bhopal,Smart TV,22,5,Churned,2026-06-12,2026-05-20,No
+CUST0341,2025-08-01,Premium,499,Organic,East,Kolkata,Smart TV,53,15,Active,,2026-10-31,Yes
+CUST0342,2024-09-22,Super,299,Social Media,West,Mumbai,Smart TV,52,25,Active,,2026-10-19,Yes
+CUST0343,2025-07-21,Mobile,149,Referral,West,Mumbai,Tablet,59,15,Active,,2026-10-18,Yes
+CUST0344,2025-04-14,Super,299,Organic,East,Ranchi,Tablet,58,18,Churned,2026-06-09,2026-05-17,No
+CUST0345,2026-04-05,Mobile,149,Social Media,East,Patna,Mobile,60,6,Active,,2026-10-18,Yes
+CUST0346,2024-08-21,Mobile,149,Referral,East,Kolkata,Laptop,47,26,Active,,2026-10-23,Yes
+CUST0347,2026-06-23,Super,299,Organic,Central,Raipur,Tablet,51,4,Active,,2026-10-24,No
+CUST0348,2026-05-03,Super,299,Paid Search,South,Bengaluru,Smart TV,54,6,Active,,2026-10-17,No
+CUST0349,2024-06-13,Premium,499,Paid Search,South,Hyderabad,Smart TV,20,29,Active,,2026-10-31,Yes
+CUST0350,2024-05-30,Super,299,Organic,South,Kochi,Mobile,47,29,Active,,2026-10-24,Yes
+CUST0351,2025-05-01,Super,299,Organic,North,Jaipur,Smart TV,28,18,Churned,2026-08-29,2026-08-12,No
+CUST0352,2024-02-10,Premium,499,Referral,South,Hyderabad,Smart TV,24,33,Active,,2026-10-26,Yes
+CUST0353,2024-09-29,Premium,499,Paid Search,North,Delhi,Mobile,27,25,Active,,2026-10-17,Yes
+CUST0354,2025-01-31,Super,299,Paid Search,North,Jaipur,Laptop,33,21,Active,,2026-10-19,Yes
+CUST0355,2026-06-03,Premium,499,Organic,West,Ahmedabad,Tablet,24,5,Active,,2026-10-25,No
+CUST0356,2026-06-24,Premium,499,Paid Search,North,Delhi,Tablet,53,4,Active,,2026-10-17,Yes
+CUST0357,2024-05-18,Premium,499,Organic,East,Patna,Tablet,45,29,Active,,2026-10-22,Yes
+CUST0358,2026-03-24,Mobile,149,Referral,West,Ahmedabad,Tablet,57,7,Churned,2026-10-25,2026-10-02,No
+CUST0359,2024-03-23,Super,299,Partner,West,Surat,Mobile,24,31,Active,,2026-10-23,Yes
+CUST0360,2025-11-13,Super,299,Organic,East,Bhubaneswar,Tablet,31,11,Active,,2026-10-26,Yes
+CUST0361,2026-02-10,Super,299,Organic,North,Lucknow,Laptop,53,8,Active,,2026-10-24,Yes
+CUST0362,2026-03-23,Super,299,Referral,Central,Bhopal,Mobile,20,7,Active,,2026-10-28,Yes
+CUST0363,2024-07-22,Premium,499,Social Media,Central,Indore,Mobile,58,27,Active,,2026-10-17,Yes
+CUST0364,2026-03-25,Premium,499,Partner,West,Ahmedabad,Mobile,22,7,Active,,2026-10-27,No
+CUST0365,2024-04-15,Mobile,149,Partner,North,Jaipur,Tablet,41,30,Active,,2026-10-22,Yes
+CUST0366,2025-04-18,Super,299,Organic,North,Chandigarh,Laptop,28,18,Active,,2026-10-21,Yes
+CUST0367,2025-03-04,Super,299,Organic,South,Chennai,Tablet,44,20,Active,,2026-10-25,Yes
+CUST0368,2024-10-15,Mobile,149,Paid Search,North,Chandigarh,Mobile,47,24,Active,,2026-10-21,Yes
+CUST0369,2024-01-21,Mobile,149,Organic,Central,Nagpur,Laptop,22,33,Churned,2026-08-02,2026-07-15,No
+CUST0370,2025-12-05,Mobile,149,Partner,South,Kochi,Laptop,60,11,Active,,2026-10-30,Yes
+CUST0371,2024-11-02,Premium,499,Social Media,South,Hyderabad,Mobile,50,24,Active,,2026-10-22,No
+CUST0372,2025-08-26,Super,299,Organic,Central,Indore,Laptop,44,14,Active,,2026-10-29,Yes
+CUST0373,2025-01-09,Premium,499,Paid Search,Central,Nagpur,Tablet,23,22,Active,,2026-10-18,No
+CUST0374,2024-12-06,Super,299,Organic,South,Hyderabad,Tablet,33,23,Churned,2026-09-18,2026-08-29,No
+CUST0375,2026-03-19,Premium,499,Referral,South,Bengaluru,Tablet,33,7,Active,,2026-10-30,Yes
+CUST0376,2024-03-27,Super,299,Social Media,East,Bhubaneswar,Laptop,26,31,Active,,2026-10-31,Yes
+CUST0377,2025-11-02,Premium,499,Social Media,West,Ahmedabad,Laptop,54,12,Active,,2026-10-29,No
+CUST0378,2025-11-12,Mobile,149,Paid Search,Central,Bhopal,Tablet,55,11,Active,,2026-10-20,Yes
+CUST0379,2024-12-12,Super,299,Social Media,Central,Bhopal,Tablet,39,22,Active,,2026-10-30,Yes
+CUST0380,2024-08-27,Premium,499,Partner,Central,Nagpur,Mobile,42,26,Active,,2026-10-30,Yes
+CUST0381,2024-01-05,Premium,499,Partner,North,Jaipur,Laptop,40,34,Active,,2026-10-17,Yes
+CUST0382,2026-05-04,Premium,499,Social Media,South,Kochi,Tablet,24,6,Churned,2026-08-23,2026-08-21,No
+CUST0383,2026-05-14,Mobile,149,Organic,East,Bhubaneswar,Smart TV,27,5,Active,,2026-10-19,Yes
+CUST0384,2024-08-07,Super,299,Paid Search,North,Lucknow,Smart TV,56,27,Active,,2026-10-27,Yes
+CUST0385,2024-01-30,Mobile,149,Partner,South,Hyderabad,Tablet,51,33,Active,,2026-10-27,Yes
+CUST0386,2024-04-21,Mobile,149,Referral,North,Chandigarh,Mobile,26,30,Active,,2026-10-27,No
+CUST0387,2024-03-02,Super,299,Social Media,Central,Bhopal,Smart TV,56,32,Active,,2026-10-18,No
+CUST0388,2026-01-27,Super,299,Referral,North,Jaipur,Laptop,27,9,Active,,2026-10-26,No
+CUST0389,2026-03-24,Premium,499,Organic,North,Delhi,Tablet,36,7,Active,,2026-10-29,Yes
+CUST0390,2024-05-19,Premium,499,Social Media,North,Delhi,Smart TV,30,29,Active,,2026-10-31,Yes
+CUST0391,2025-11-12,Super,299,Referral,North,Delhi,Tablet,53,11,Churned,2026-08-04,2026-07-23,No
+CUST0392,2024-06-12,Premium,499,Paid Search,East,Bhubaneswar,Smart TV,48,29,Active,,2026-10-18,Yes
+CUST0393,2024-11-30,Mobile,149,Paid Search,South,Kochi,Laptop,44,23,Active,,2026-10-24,No
+CUST0394,2025-06-30,Mobile,149,Paid Search,Central,Raipur,Tablet,48,16,Churned,2026-09-29,2026-09-12,No
+CUST0395,2025-10-18,Super,299,Referral,South,Kochi,Tablet,42,12,Active,,2026-10-17,No
+CUST0396,2026-03-08,Premium,499,Referral,East,Kolkata,Tablet,55,7,Active,,2026-10-19,Yes
+CUST0397,2024-02-10,Mobile,149,Paid Search,West,Pune,Tablet,46,33,Active,,2026-10-31,No
+CUST0398,2024-06-28,Super,299,Paid Search,West,Pune,Smart TV,36,28,Active,,2026-10-29,Yes
+CUST0399,2024-09-12,Super,299,Social Media,West,Mumbai,Laptop,37,25,Active,,2026-10-30,No
+CUST0400,2024-10-10,Mobile,149,Partner,South,Kochi,Laptop,42,25,Active,,2026-10-25,Yes
+CUST0401,2026-06-29,Super,299,Organic,East,Patna,Mobile,47,4,Churned,2026-09-14,2026-08-24,No
+CUST0402,2025-12-09,Premium,499,Paid Search,Central,Raipur,Laptop,42,10,Active,,2026-10-26,Yes
+CUST0403,2024-10-19,Super,299,Organic,Central,Nagpur,Smart TV,34,24,Active,,2026-10-28,Yes
+CUST0404,2026-06-05,Mobile,149,Organic,West,Surat,Tablet,34,4,Active,,2026-10-18,Yes
+CUST0405,2025-03-31,Premium,499,Social Media,West,Ahmedabad,Laptop,30,19,Active,,2026-10-24,Yes
+CUST0406,2025-04-01,Mobile,149,Organic,Central,Nagpur,Tablet,27,19,Active,,2026-10-26,Yes
+CUST0407,2025-01-30,Premium,499,Organic,West,Ahmedabad,Smart TV,47,21,Active,,2026-10-24,Yes
+CUST0408,2024-05-11,Mobile,149,Organic,Central,Indore,Tablet,43,30,Active,,2026-10-20,Yes
+CUST0409,2026-05-02,Super,299,Referral,North,Jaipur,Tablet,46,6,Active,,2026-10-19,Yes
+CUST0410,2024-01-13,Super,299,Paid Search,South,Bengaluru,Laptop,46,34,Churned,2026-09-18,2026-08-31,No
+CUST0411,2024-06-07,Mobile,149,Organic,North,Chandigarh,Tablet,25,29,Churned,2026-08-19,2026-08-07,No
+CUST0412,2024-07-28,Premium,499,Social Media,North,Chandigarh,Smart TV,20,27,Active,,2026-10-17,No
+CUST0413,2024-09-11,Mobile,149,Paid Search,East,Ranchi,Mobile,25,26,Active,,2026-10-18,Yes
+CUST0414,2024-04-30,Mobile,149,Organic,South,Chennai,Laptop,34,30,Churned,2026-10-06,2026-09-13,No
+CUST0415,2024-01-17,Mobile,149,Organic,East,Bhubaneswar,Tablet,47,33,Active,,2026-10-19,Yes
+CUST0416,2025-09-10,Super,299,Paid Search,East,Bhubaneswar,Tablet,52,13,Active,,2026-10-21,Yes
+CUST0417,2026-06-03,Premium,499,Paid Search,West,Mumbai,Smart TV,56,5,Active,,2026-10-24,Yes
+CUST0418,2024-04-21,Premium,499,Social Media,Central,Nagpur,Smart TV,45,30,Active,,2026-10-23,No
+CUST0419,2024-09-27,Mobile,149,Paid Search,Central,Bhopal,Tablet,53,25,Churned,2026-09-16,2026-09-10,No
+CUST0420,2025-04-06,Super,299,Organic,South,Hyderabad,Laptop,59,19,Active,,2026-10-29,Yes
+CUST0421,2026-04-25,Mobile,149,Referral,South,Kochi,Mobile,35,6,Active,,2026-10-28,Yes
+CUST0422,2025-09-25,Super,299,Paid Search,West,Ahmedabad,Tablet,57,13,Active,,2026-10-31,Yes
+CUST0423,2025-11-29,Premium,499,Organic,North,Lucknow,Tablet,36,11,Active,,2026-10-19,Yes
+CUST0424,2025-06-13,Super,299,Paid Search,East,Bhubaneswar,Mobile,31,16,Active,,2026-10-29,Yes
+CUST0425,2025-01-15,Super,299,Social Media,East,Kolkata,Laptop,56,21,Active,,2026-10-29,Yes
+CUST0426,2024-07-01,Super,299,Paid Search,North,Jaipur,Mobile,19,28,Active,,2026-10-31,Yes
+CUST0427,2026-02-27,Premium,499,Social Media,West,Surat,Mobile,52,8,Active,,2026-10-26,Yes
+CUST0428,2026-01-03,Super,299,Referral,South,Bengaluru,Tablet,22,10,Active,,2026-10-29,Yes
+CUST0429,2024-01-23,Mobile,149,Organic,North,Jaipur,Laptop,40,33,Active,,2026-10-23,Yes
+CUST0430,2025-10-14,Super,299,Organic,West,Mumbai,Mobile,38,12,Active,,2026-10-29,Yes
+CUST0431,2024-03-17,Mobile,149,Paid Search,North,Lucknow,Mobile,39,31,Churned,2026-07-06,2026-06-17,No
+CUST0432,2025-11-04,Mobile,149,Organic,West,Ahmedabad,Laptop,19,12,Churned,2026-06-12,2026-06-07,No
+CUST0433,2026-01-23,Mobile,149,Organic,North,Lucknow,Tablet,22,9,Active,,2026-10-21,No
+CUST0434,2024-04-29,Super,299,Organic,East,Kolkata,Smart TV,56,30,Active,,2026-10-30,Yes
+CUST0435,2025-01-30,Super,299,Organic,Central,Nagpur,Smart TV,42,21,Active,,2026-10-18,Yes
+CUST0436,2024-04-22,Mobile,149,Paid Search,South,Chennai,Smart TV,44,30,Active,,2026-10-24,Yes
+CUST0437,2025-06-01,Super,299,Referral,West,Mumbai,Tablet,58,17,Churned,2026-10-16,2026-10-02,No
+CUST0438,2026-04-25,Premium,499,Partner,West,Pune,Tablet,47,6,Active,,2026-10-30,No
+CUST0439,2024-03-14,Premium,499,Organic,Central,Indore,Smart TV,24,32,Active,,2026-10-27,Yes
+CUST0440,2024-12-28,Super,299,Social Media,North,Chandigarh,Laptop,20,22,Active,,2026-10-29,Yes
+CUST0441,2026-06-06,Mobile,149,Referral,West,Surat,Laptop,45,4,Active,,2026-10-22,Yes
+CUST0442,2024-10-01,Premium,499,Referral,Central,Bhopal,Tablet,23,25,Active,,2026-10-24,Yes
+CUST0443,2024-04-30,Mobile,149,Paid Search,West,Ahmedabad,Smart TV,27,30,Churned,2026-10-17,2026-10-02,No
+CUST0444,2025-03-21,Mobile,149,Partner,North,Delhi,Tablet,47,19,Churned,2026-09-08,2026-08-20,No
+CUST0445,2025-04-08,Premium,499,Paid Search,Central,Raipur,Laptop,41,19,Active,,2026-10-21,No
+CUST0446,2025-08-27,Super,299,Organic,North,Chandigarh,Laptop,53,14,Active,,2026-10-23,Yes
+CUST0447,2024-10-13,Super,299,Organic,East,Ranchi,Laptop,60,24,Active,,2026-10-28,No
+CUST0448,2026-05-21,Super,299,Social Media,East,Kolkata,Tablet,44,5,Active,,2026-10-24,Yes
+CUST0449,2025-04-20,Super,299,Referral,East,Ranchi,Mobile,51,18,Active,,2026-10-20,No
+CUST0450,2024-09-18,Mobile,149,Paid Search,East,Kolkata,Tablet,20,25,Active,,2026-10-22,Yes
+CUST0451,2026-05-25,Mobile,149,Social Media,North,Lucknow,Laptop,45,5,Churned,2026-09-19,2026-09-13,No
+CUST0452,2026-04-23,Mobile,149,Social Media,East,Patna,Mobile,52,6,Active,,2026-10-27,Yes
+CUST0453,2025-03-31,Mobile,149,Paid Search,Central,Nagpur,Laptop,55,19,Churned,2026-10-03,2026-09-28,No
+CUST0454,2024-01-23,Premium,499,Paid Search,East,Bhubaneswar,Mobile,19,33,Active,,2026-10-25,Yes
+CUST0455,2025-06-28,Mobile,149,Organic,South,Kochi,Laptop,30,16,Active,,2026-10-24,Yes
+CUST0456,2025-05-21,Super,299,Organic,Central,Indore,Laptop,57,17,Active,,2026-10-30,Yes
+CUST0457,2024-05-15,Premium,499,Social Media,North,Jaipur,Smart TV,20,29,Active,,2026-10-22,No
+CUST0458,2025-08-01,Premium,499,Social Media,East,Patna,Smart TV,49,15,Active,,2026-10-18,Yes
+CUST0459,2026-02-05,Super,299,Organic,East,Bhubaneswar,Mobile,52,8,Active,,2026-10-19,Yes
+CUST0460,2024-04-06,Super,299,Referral,East,Patna,Tablet,37,31,Active,,2026-10-19,Yes
+CUST0461,2025-10-21,Premium,499,Paid Search,Central,Bhopal,Laptop,47,12,Active,,2026-10-20,Yes
+CUST0462,2024-05-07,Super,299,Paid Search,East,Kolkata,Mobile,29,30,Active,,2026-10-24,Yes
+CUST0463,2025-11-13,Premium,499,Social Media,Central,Raipur,Laptop,34,11,Churned,2026-10-02,2026-09-13,No
+CUST0464,2025-01-17,Premium,499,Referral,North,Chandigarh,Smart TV,50,21,Active,,2026-10-25,Yes
+CUST0465,2024-01-06,Premium,499,Organic,West,Pune,Smart TV,56,34,Active,,2026-10-28,Yes
+CUST0466,2026-05-31,Mobile,149,Social Media,East,Patna,Laptop,48,5,Active,,2026-10-28,Yes
+CUST0467,2024-05-31,Super,299,Referral,South,Chennai,Laptop,31,29,Active,,2026-10-26,Yes
+CUST0468,2025-06-27,Mobile,149,Social Media,South,Kochi,Laptop,29,16,Active,,2026-10-19,Yes
+CUST0469,2024-06-14,Super,299,Social Media,West,Ahmedabad,Mobile,26,28,Active,,2026-10-17,Yes
+CUST0470,2026-04-30,Premium,499,Organic,West,Surat,Mobile,47,6,Active,,2026-10-20,Yes
+CUST0471,2025-11-04,Super,299,Organic,West,Pune,Smart TV,35,12,Churned,2026-08-13,2026-08-03,No
+CUST0472,2026-01-03,Super,299,Organic,North,Chandigarh,Laptop,46,10,Churned,2026-06-27,2026-06-17,No
+CUST0473,2025-01-29,Mobile,149,Partner,East,Bhubaneswar,Tablet,27,21,Active,,2026-10-23,Yes
+CUST0474,2025-03-02,Premium,499,Social Media,Central,Bhopal,Laptop,18,20,Active,,2026-10-31,Yes
+CUST0475,2025-08-01,Mobile,149,Organic,North,Delhi,Tablet,27,15,Churned,2026-10-27,2026-10-05,No
+CUST0476,2025-12-16,Mobile,149,Partner,East,Patna,Laptop,35,10,Active,,2026-10-29,Yes
+CUST0477,2026-02-11,Mobile,149,Social Media,East,Ranchi,Laptop,26,8,Churned,2026-10-12,2026-10-08,No
+CUST0478,2024-01-17,Mobile,149,Social Media,Central,Bhopal,Smart TV,31,33,Active,,2026-10-30,Yes
+CUST0479,2025-08-28,Super,299,Partner,South,Kochi,Mobile,35,14,Active,,2026-10-27,No
+CUST0480,2024-04-09,Super,299,Organic,East,Patna,Smart TV,23,31,Churned,2026-10-27,2026-10-10,No
+CUST0481,2024-09-19,Mobile,149,Organic,West,Mumbai,Tablet,42,25,Churned,2026-06-21,2026-05-28,No
+CUST0482,2026-01-26,Mobile,149,Social Media,North,Lucknow,Tablet,41,9,Active,,2026-10-22,Yes
+CUST0483,2024-08-16,Mobile,149,Organic,Central,Bhopal,Smart TV,35,26,Active,,2026-10-17,Yes
+CUST0484,2025-12-27,Super,299,Social Media,Central,Bhopal,Mobile,23,10,Active,,2026-10-28,No
+CUST0485,2025-02-26,Mobile,149,Organic,West,Ahmedabad,Tablet,60,20,Churned,2026-09-03,2026-08-24,No
+CUST0486,2024-07-31,Super,299,Organic,West,Mumbai,Mobile,45,27,Active,,2026-10-21,No
+CUST0487,2024-10-31,Mobile,149,Organic,West,Pune,Smart TV,34,24,Churned,2026-08-31,2026-08-08,No
+CUST0488,2025-04-29,Mobile,149,Referral,West,Surat,Tablet,55,18,Active,,2026-10-23,Yes
+CUST0489,2025-11-28,Super,299,Organic,Central,Raipur,Tablet,23,11,Active,,2026-10-29,Yes
+CUST0490,2025-07-06,Super,299,Organic,East,Kolkata,Tablet,28,16,Active,,2026-10-25,Yes
+CUST0491,2026-05-01,Mobile,149,Paid Search,East,Bhubaneswar,Tablet,51,6,Active,,2026-10-19,Yes
+CUST0492,2026-03-02,Mobile,149,Referral,West,Surat,Laptop,46,8,Churned,2026-06-04,2026-06-01,No
+CUST0493,2025-11-18,Premium,499,Referral,North,Delhi,Laptop,28,11,Churned,2026-10-05,2026-09-21,No
+CUST0494,2025-07-04,Mobile,149,Organic,Central,Indore,Tablet,38,16,Active,,2026-10-21,Yes
+CUST0495,2024-09-21,Super,299,Referral,West,Surat,Smart TV,42,25,Active,,2026-10-26,Yes
+CUST0496,2025-01-11,Super,299,Organic,West,Ahmedabad,Mobile,57,21,Active,,2026-10-28,Yes
+CUST0497,2024-04-18,Mobile,149,Social Media,South,Hyderabad,Laptop,48,30,Active,,2026-10-21,Yes
+CUST0498,2024-12-07,Super,299,Organic,South,Bengaluru,Tablet,60,23,Churned,2026-10-18,2026-10-15,No
+CUST0499,2026-04-24,Premium,499,Partner,East,Patna,Smart TV,53,6,Active,,2026-10-30,Yes
+CUST0500,2025-01-23,Premium,499,Partner,West,Mumbai,Tablet,35,21,Active,,2026-10-20,Yes
