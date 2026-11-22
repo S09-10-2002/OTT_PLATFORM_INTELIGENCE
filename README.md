@@ -197,3 +197,85 @@ OTT_PLATFORM_INTELLIGENCE/
 This project demonstrates an end-to-end data analytics workflow using Excel, Oracle SQL and Power BI.
 
 It transforms raw datasets into structured analysis, interactive dashboards and business recommendations, with a focus on customer retention, viewer engagement and content performance.
+
+
+## 📌 Project Overview
+
+**OTT Platform Intelligence: Content Performance, Viewer Engagement & Customer Churn Analytics**
+
+### 1. Business Problem
+
+The objective of this project is to analyse customer behaviour and content consumption patterns on a simulated OTT platform.
+
+The analysis focuses on identifying customer churn patterns, understanding viewer engagement, evaluating content performance, and discovering opportunities to improve customer retention.
+
+### 2. Project Objectives
+
+- Analyse overall customer churn and retention.
+- Identify subscription plans and regions with higher churn rates.
+- Understand viewing behaviour across different customer segments.
+- Evaluate content performance based on watch time and completion percentage.
+- Analyse the relationship between customer engagement and churn.
+- Develop data-driven recommendations to improve customer retention.
+
+### 3. Dataset Description
+
+The project uses a synthetic dataset created for educational and analytical purposes.
+
+| Dataset | Records | Description |
+|---|---:|---|
+| Customers | 500 | Customer profiles, subscription details and churn status |
+| Content Catalogue | 120 | Content titles, genres, languages and other attributes |
+| Viewing Sessions | 2,500 | Viewing activity, watch time and completion percentage |
+| **Total** | **3,120** | **Records across three datasets** |
+
+### 4. Tools and Technologies
+
+- **Microsoft Excel:** Data inspection, cleaning, Pivot Tables and preliminary analysis.
+- **Oracle SQL:** Database creation, table relationships, joins, aggregations, subqueries and business analysis.
+- **Power BI:** Data modelling, DAX measures, interactive dashboards and visual storytelling.
+- **Python:** Planned for further exploratory data analysis.
+
+### 5. Key Business Findings
+
+- Overall customer churn is **21.20%**.
+- The Mobile subscription plan has the highest churn rate at **28.81%**.
+- North region has the highest regional churn rate at **23.30%**.
+- Central region has the highest churn volume.
+- Organic acquisition has the highest churn rate at **25.00%**.
+- Customers with low engagement have a higher churn rate (**24.37%**) than customers with high engagement (**18.35%**).
+- Comedy has the highest average content completion at **69.01%**.
+- Romance has the highest average watch time at **84.69 minutes**.
+
+### 6. Power BI Dashboard
+
+The interactive Power BI report contains three analytical pages:
+
+1. **Executive Overview:** Overall customer metrics, subscription analysis and regional churn.
+2. **Content Performance:** Genre-wise engagement, content completion and top-performing titles.
+3. **Customer Retention & Engagement:** Customer segmentation, tenure, acquisition channels and churn patterns.
+
+### 7. Business Recommendations
+
+- Investigate the reasons behind higher churn among Mobile plan subscribers.
+- Prioritise customer retention initiatives in the North region.
+- Review customer expectations and satisfaction across acquisition channels.
+- Develop targeted engagement strategies for low-engagement customers.
+- Explore content preferences and completion patterns to support content planning.
+- Review subscription renewal behaviour and consider targeted renewal incentives.
+
+### 8. Project Limitations
+
+- The dataset is synthetic and does not represent actual data from any OTT company.
+- The findings demonstrate analytical patterns within the generated dataset.
+- Observed associations should not be interpreted as proof of causation.
+- Further analysis with real-world data would be required before making actual business decisions.
+
+### 9. Project Status
+
+Excel analysis, Oracle SQL analysis and the three-page Power BI dashboard have been completed. Python analysis and final project documentation are the next stages.
+
+---
+
+**Note:** This project is developed for learning and portfolio demonstration purposes.
+
