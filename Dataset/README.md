@@ -1,0 +1,1 @@
+This folder contains the synthetic datasets used in the OTT Platform Intelligence project, including customer information, content catalogue details and viewing session records. The data is created for educational and analytical purposes.
